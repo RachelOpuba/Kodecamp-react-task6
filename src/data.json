@@ -1,0 +1,219 @@
+{
+  "info": [
+    {
+      "id": 1,
+      "title": "Afang_Owerri",
+      "image": "images/Afang_owerri.jpg",
+      "price": 2000,
+      "oldPrice": 4000,
+      "review": "*****"
+    },
+
+    {
+      "id": 2,
+      "title": "Sea Fish Peppersoup",
+      "image": "images/Sea_Fish_PepperSoup_DDmark.jpg",
+      "price": 1500,
+      "oldPrice": 3000,
+      "review": "No reviews yet"
+    },
+
+    {
+      "id": 3,
+      "title": "Ofada Source",
+      "image": "images/ofada-source.jpg",
+      "price": 1800,
+      "oldPrice": 2500,
+      "review": "No reviews yet"
+    },
+
+    {
+      "id": 4,
+      "title": "Banger Soup",
+      "image": "images/Banger_Soup_Ray.jpg",
+      "price": 3000,
+      "oldPrice": 4500,
+      "review": "No reviews yet"
+    },
+
+    {
+      "id": 5,
+      "title": "Fish Peper Soup",
+      "image": "images/Baracuda_Fish_Peppersoup_Xqsug6t.jpg",
+      "price": 2000,
+      "oldPrice": 4000,
+      "review": "No reviews yet"
+    },
+
+    {
+      "id": 6,
+      "title": "Jollof Rice",
+      "image": "images/jollof_Rice_Ray.jpg",
+      "price": 1500,
+      "oldPrice": 2000,
+      "review": "No reviews yet"
+    },
+
+    {
+      "id": 7,
+      "title": "Bitter Leaf Soup",
+      "image": "images/bitterleaf_soup_ray.jpg",
+      "price": 2200,
+      "oldPrice": 3000,
+      "review": "No reviews yet"
+    },
+
+    {
+      "id": 8,
+      "title": "Cajun Prawns",
+      "image": "images/Cajun_Prawns_BXtiKOQ.jpg",
+      "price": 4000,
+      "oldPrice": 4800,
+      "review": "No reviews yet"
+    },
+
+    {
+      "id": 9,
+      "title": "Oha Soup",
+      "image": "images/Oha_Soup._owerri.jpg",
+      "price": 2000,
+      "oldPrice": 3500,
+      "review": "No reviews yet"
+    },
+
+    {
+      "id": 10,
+      "title": "Cow Tail Peppersoup",
+      "image": "images/Cow_Tail_Peppersoup_Barcardi_qVe9Sdk.jpg",
+      "price": 3000,
+      "oldPrice": 3500,
+      "review": "No reviews yet"
+    },
+
+    {
+      "id": 11,
+      "title": "Akama Soup",
+      "image": "images/DD_Mark_Akama.jpg",
+      "price": 2000,
+      "oldPrice": 4000,
+      "review": "No reviews yet"
+    },
+
+    {
+      "id": 12,
+      "title": "Afang Soup",
+      "image": "images/DD_Mark_Afang.jpg",
+      "price": 2500,
+      "oldPrice": 3500,
+      "review": "No reviews yet"
+    },
+
+    {
+      "id": 13,
+      "title": "Efo-riro",
+      "image": "images/Efo.jpg",
+      "price": 2500,
+      "oldPrice": 3500,
+      "review": "No reviews yet"
+    },
+
+    {
+      "id": 14,
+      "title": "Esiewu",
+      "image": "images/Esiewu_DD_Mark.jpg",
+      "price": 3000,
+      "oldPrice": 4000,
+      "review": "No reviews yet"
+    },
+
+    {
+      "id": 15,
+      "title": "Italian Frittata",
+      "image": "images/Italian_Frittata_CG7DFDR.jpg",
+      "price": 2000,
+      "oldPrice": 4000,
+      "review": "No reviews yet"
+    },
+
+    {
+      "id": 16,
+      "title": "Jollof Rice",
+      "image": "images/jollof_Rice_Ray.jpg",
+      "price": 2800,
+      "oldPrice": 4000,
+      "review": "No reviews yet"
+    },
+
+    {
+      "id": 17,
+      "title": "Native Rice",
+      "image": "images/native rice.jpg",
+      "price": 2000,
+      "oldPrice": 4000,
+      "review": "No reviews yet"
+    },
+
+    {
+      "id": 18,
+      "title": "French Lamb Gigot",
+      "image": "images/French_Lamb_Gigot_8vnqlse.jpg",
+      "price": 4000,
+      "oldPrice": 4500,
+      "review": "No reviews yet"
+    },
+    {
+      "id": 19,
+      "title": "Steak Beak",
+      "image": "images/Steak_Beef_Sandwich_h77nbhu.jpg",
+      "price": 2000,
+      "oldPrice": 4000,
+      "review": "No reviews yet"
+    },
+    {
+      "id": 20,
+      "title": "Fruit Ice Cream",
+      "image": "images/Fruits__Ice_Cream.jpg",
+      "price": 2000,
+      "oldPrice": 4000,
+      "review": "No reviews yet"
+    }
+  ],
+
+  "about": [
+    {
+      "heading": "ONLINE FOOD DELIVERY",
+      "details": "MamaPut is an online food delivery platform serving meals from restaurants to customers at their doorstep. We give you access to a dozens of Abuja restaurants online. Order your breakfast, lunch and dinner from any day restaurant near you. Bringing restaurants and clients all in one place."
+    },
+    {
+      "heading": "RESTAURANT DIRECTORY",
+      "details": "Find a listing of names and addresses of all our restaurants partners in Abuja under our Restaurant directory also known as food directory. Our partners include Hotel restaurants , Restaurant, food vendors and catering outlets."
+    },
+    {
+      "heading": "LOGISTICS",
+      "details": "Send parcels, packages and food orders with our affordable,reliable and efficient delivery service. Our dispatch riders are always there to help with your door to door Abuja errands service. Schedule your pickup and drop off point. Pay with your card and the delivery becomes our burden."
+    }
+  ],
+
+  "questions": [
+    {
+      "question": "CAN I GET A REFUND?",
+      "awnser": "All orders are forwarded to the restaurant immediately they are received. In the case of cancellation calls must be effected to ensure the preparation of the order has not commenced but on the ground they have started a refund is demanded depending on the restaurants policy and all correspondence will be communicated to our client."
+    },
+    {
+      "question": "I DIDN’T RECEIVE FOOD ON TIME. WHAT SHOULD I DO NOW?",
+      "awnser": "Kindly drop a message at our feedback section indicating the time delivery was received and time the order was placed. Note: All menus are delivered based on the time indicated for preparing and convening from the restaurants to your location."
+    },
+    {
+      "question": "CAN I CANCEL MY ORDER?",
+      "awnser": "Order cancellation is possible but the refund is not guaranteed."
+    },
+    {
+      "question": "CAN I PLACE A GROUP ORDER?",
+      "awnser": "Group orders are welcome and attended to promptly but note the charges for group order delivery differs considering the quantity as all charges are subject to change when the quantity goes above a 2kg."
+    },
+    {
+      "question": "WHAT PAYMENTS DO YOU ACCEPT?",
+      "awnser": "Our payment platform is fully integrated to accept cards including Bank transfer, MasterCard, Visa card, all local and international cards."
+    }
+  ]
+}
