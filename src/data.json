@@ -11,8 +11,8 @@
 
     {
       "id": 2,
-      "title": "Sea Fish Peppersoup",
-      "image": "/images/Sea_Fish_PepperSoup_DDmark.jpg",
+      "title": "Chicke  Hot Garlic Source",
+      "image": "/images/Chicken_Hot_Garlice__Sause.jpg",
       "price": 1500,
       "oldPrice": 3000,
       "review": "No reviews yet"
@@ -163,8 +163,8 @@
     },
     {
       "id": 19,
-      "title": "Steak Beak",
-      "image": "/images/Steak_Beef_Sandwich_h77nbhu.jpg",
+      "title": "Chicken Salad",
+      "image": "/images/chicken-salad.jpg",
       "price": 2000,
       "oldPrice": 4000,
       "review": "No reviews yet"
