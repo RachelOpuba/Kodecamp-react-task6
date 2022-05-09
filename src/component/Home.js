@@ -14,7 +14,11 @@ const Home = () => {
             return (
               <Col lg={3} md={4} sm={6}>
                 <Card style={{ width: "" }} className="card my-3 mx-auto">
-                  <Card.Img variant="top" src={food.image} className="image" />
+                  <Card.Img
+                    variant="top"
+                    src={process.env.PUBLIC_URL + food.image}
+                    className="image"
+                  />
                   <Card.Body className="card-content">
                     <p className="review">{food.review}</p>
                     <Card.Title>{food.title}</Card.Title>

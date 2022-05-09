@@ -14,7 +14,9 @@ const About = () => {
         {Data.about.map(function (abouts) {
           return (
             <div>
-              <h5>{abouts.heading}</h5>
+              <h5
+              >{abouts.heading}</h5
+              >
               <p className="para py-3">{abouts.details}</p>
             </div>
           );
