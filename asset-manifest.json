@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Kodecamp-react-task6/static/css/main.633014ec.css",
-    "main.js": "/Kodecamp-react-task6/static/js/main.0c93c5cc.js",
+    "main.js": "/Kodecamp-react-task6/static/js/main.9cefc7e2.js",
     "index.html": "/Kodecamp-react-task6/index.html",
     "main.633014ec.css.map": "/Kodecamp-react-task6/static/css/main.633014ec.css.map",
-    "main.0c93c5cc.js.map": "/Kodecamp-react-task6/static/js/main.0c93c5cc.js.map"
+    "main.9cefc7e2.js.map": "/Kodecamp-react-task6/static/js/main.9cefc7e2.js.map"
   },
   "entrypoints": [
     "static/css/main.633014ec.css",
-    "static/js/main.0c93c5cc.js"
+    "static/js/main.9cefc7e2.js"
   ]
 }
