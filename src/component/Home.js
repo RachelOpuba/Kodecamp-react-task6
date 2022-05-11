@@ -11,8 +11,7 @@ const Home = () => {
       <Container className=" mt-3">
         <Row className="">
           {Data.info.map(function (food) {
-            return (
-              //
+            return ( 
               <Col lg={3} md={4} sm={6} key={food.id}>
                 <Card style={{ width: "" }} className="card my-3 mx-auto">
                   <Card.Img
