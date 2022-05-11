@@ -11,7 +11,7 @@ const About = () => {
       </div>
       <Container>
         <h1 className="py-4">Who Are We?</h1>
-        {Data.about.map(function (abouts) {
+        {Data.about.map(function (abouts) { 
           return (
             <div>
               <h5

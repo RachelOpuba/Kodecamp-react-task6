@@ -1,7 +1,8 @@
 import React from "react";
-import Slider from "./Slider";
+import Slider from "../pages/Slider";
 import Data from "../data.json";
 import { Container, Row, Col, Card } from "react-bootstrap";
+import { Link } from "react-router-dom";
 
 const Home = () => {
   console.log(Data.info);
@@ -11,7 +12,7 @@ const Home = () => {
       <Container className=" mt-3">
         <Row className="">
           {Data.info.map(function (food) {
-            return ( 
+            return (
               <Col lg={3} md={4} sm={6} key={food.id}>
                 <Card style={{ width: "" }} className="card my-3 mx-auto">
                   <Card.Img
@@ -27,6 +28,9 @@ const Home = () => {
                         <p className="current-price">N{food.price}</p>
                         <p className="old">N{food.oldPrice}</p>
                       </div>
+                      <Link to={`/cards/${food.id}`} className="view-details">
+                        View Details
+                      </Link>
                     </Card.Text>
                   </Card.Body>
                 </Card>

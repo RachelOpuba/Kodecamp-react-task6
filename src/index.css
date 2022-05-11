@@ -16,8 +16,13 @@ nav {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 2rem 2rem;
+  padding: 1rem 2rem;
   font-size: 1.2rem;
+  position: fixed;
+  top: 0;
+  z-index: 999;
+  background: white;
+  width: 100%;
 }
 
 nav a {
@@ -75,7 +80,7 @@ nav a.active {
   margin: 0 auto;
 }
 .card {
-  height: 350px;
+  height: 360;
 }
 .image {
   height: 200px;
@@ -174,6 +179,37 @@ textarea {
 
 .name-email input {
   width: 48%;
+}
+
+.view-details {
+  text-decoration: none;
+  background: black;
+  padding: 5px 10px;
+  color: white;
+  border-radius: 5px;
+}
+
+.single-card {
+  margin-top: 6rem;
+}
+
+.order {
+  border: none;
+  background: green;
+  color: white;
+  padding: 0.2rem 0.6rem;
+  font-weight: bolder;
+  border-radius: 5px;
+}
+
+.back {
+  background: black;
+
+  text-decoration: none;
+  width: 60px;
+  color: white;
+  padding-left: 0.5rem;
+  border-radius: 5px;
 }
 
 @media screen and (max-width: 500px) {
